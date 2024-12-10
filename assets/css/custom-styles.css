@@ -1,6 +1,7 @@
 /* Main title styling - default size for smaller screens */
 .intro-header .page-heading h1 {
     font-size: 3.125rem;  /* Keep original small screen size */
+    white-space: nowrap;
 }
 
 /* Override large screen size to be smaller */
