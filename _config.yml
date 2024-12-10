@@ -10,21 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: David Gonzalez-Calatayud
 
 # Your name to show in the footer
-author: Some Person
+author: David Gonzalez-Calatayud
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  CV: "downloads/CV.pdf"
 
 ################
 # --- Logo --- #
