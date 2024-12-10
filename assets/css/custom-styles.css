@@ -1,18 +1,11 @@
-/* Main title styling - default size for smaller screens */
 .intro-header .page-heading h1 {
-    font-size: 3.125rem;  /* Keep original small screen size */
-    white-space: nowrap;
+    margin-top: 0;
+    font-size: 3.125rem;  /* Back to original default size */
 }
 
-/* Override large screen size to be smaller */
 @media (min-width: 1200px) {
     .intro-header .page-heading h1 {
-        font-size: 3.5rem;  /* Original 5rem*/
-    }
-}
-
-@media (max-width: 800px) {
-    .intro-header .page-heading h1 {
-        white-space: normal;  /* Allows line breaks below 800px */
+        font-size: 3.5rem;  /* Original large screen size */
+        white-space: nowrap;  /* Prevents line breaks only on large screens */
     }
 }
