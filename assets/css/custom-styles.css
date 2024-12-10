@@ -1,0 +1,11 @@
+/* Main title styling */
+.intro-header .page-heading h1 {
+    font-size: 3rem;
+    margin: 1.5rem 0;
+}
+
+/* Ensure email subtitle is properly styled */
+.intro-header .page-heading .page-subheading {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+}
