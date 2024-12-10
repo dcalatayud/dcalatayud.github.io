@@ -14,6 +14,7 @@ title: David Gonzalez-Calatayud
 
 # Your name to show in the footer
 author: David Gonzalez-Calatayud
+description: "Physics student at UAM studying statistical physics of complex systems, interested in soft matter."
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -122,7 +123,7 @@ edit_page_button: false
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "David Gonzalez Calatayud, physics, UAM, Universidad Autónoma de Madrid, statistical physics, complex systems"
 
 ######################################
 # --- Colours / background image --- #
