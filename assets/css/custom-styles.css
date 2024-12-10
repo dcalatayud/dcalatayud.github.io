@@ -1,11 +1,11 @@
-/* Main title styling */
+/* Main title styling - default size for smaller screens */
 .intro-header .page-heading h1 {
-    font-size: 3.5rem;
-    margin: 1.5rem 0;
+    font-size: 3.125rem;  /* Keep original small screen size */
 }
 
-/* Ensure email subtitle is properly styled */
-.intro-header .page-heading .page-subheading {
-    font-size: 1.2rem;
-    margin: 1rem 0;
+/* Override large screen size to be smaller */
+@media (min-width: 1200px) {
+    .intro-header .page-heading h1 {
+        font-size: 3.25rem;  /* Original 5rem*/
+    }
 }
