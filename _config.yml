@@ -55,8 +55,13 @@ social-network-links:
   # youtube: "@daattali"
   # whatsapp: 15551212
 #  medium: yourname
+<<<<<<< HEAD
 #  reddit: yourname or r/yoursubreddit
   linkedin: dcalatayud
+=======
+ # reddit: yourname or r/yoursubreddit
+ linkedin: dcalatayud
+>>>>>>> f91041bf07797121c931de6d1accd0e18996134c
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
