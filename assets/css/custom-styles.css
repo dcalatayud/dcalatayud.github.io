@@ -7,6 +7,12 @@
 /* Override large screen size to be smaller */
 @media (min-width: 1200px) {
     .intro-header .page-heading h1 {
-        font-size: 3.25rem;  /* Original 5rem*/
+        font-size: 3.5rem;  /* Original 5rem*/
+    }
+}
+
+@media (max-width: 800px) {
+    .intro-header .page-heading h1 {
+        white-space: normal;  /* Allows line breaks below 800px */
     }
 }
